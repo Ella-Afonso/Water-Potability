@@ -1,6 +1,6 @@
 # Water Potability
-# Water Potability Prediction Project: Lifecycle of Machine Learning Project
-# Main Aim: The primary goal of this project is to predict whether water is potable (safe to drink) or not using machine learning (ML) and Auto ML techniques.
+Water Potability Prediction Project: Lifecycle of Machine Learning Project
+Main Aim: The primary goal of this project is to predict whether water is potable (safe to drink) or not using machine learning (ML) and Auto ML techniques.
 
 # 1) Problem Statement:
 Contaminated water is a major issue worldwide, linked to several waterborne diseases. The objective of this project is to build a machine learning model that predicts the potability of water, determining whether it is safe for human consumption or not. By using ML and Auto ML algorithms, we aim to create a model that assists in real-time water quality assessments.
